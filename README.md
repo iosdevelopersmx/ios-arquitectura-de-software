@@ -5,7 +5,7 @@
 *Nota: los siguientes recursos son material gratuito y en Español que pueden ayudarte a determinar cuál es la arquitectura que más te puede servir para crear una aplicación en iOS.*
 
 
-# 🧱 Arquitecturas
+# 🧱 Opciones
 
 ## MVC - Model View Controller
 
